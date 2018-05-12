@@ -1,0 +1,33 @@
+_repo: Legend-Land-Volume-2Western-Parts-of-Britain-Served-by-The-Great-Western-Railway_20249
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barham, G. Basil (George Basil)
+    alias: Barham, George Basil
+    gutenberg_agent_id: '9307'
+    url: http://www.gutenberg.org/2009/agents/9307
+description: ''
+gutenberg_issued: '2007-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- England'
+- !lcc 'GR'
+- !lcsh 'Folk literature, English'
+- !lcsh 'Folklore -- England'
+tableOfContents: The church the devil stole -- The parson and the clerk -- The weaver
+  of Dean Combe -- The demon who helped Drake -- The Samson of Tavistock -- The midnight
+  hunter of the moor -- The lost land of Lyonesse -- The piskie's funeral -- The spectre
+  coach -- St. Neot, the pigmy saint -- The old man of Cury -- The Hooting Carn --
+  The Padstow May Day songs.
+title: "Legend Land, Vol. 2\r\nBeing a Collection of Some of the Old Tales Told in\
+  \ Those Western Parts of Britain Served by the Great Western Railway"
+url: http://www.gutenberg.org/ebooks/20249
